@@ -1,0 +1,11 @@
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\bin\Debug\projeto1.exe.config
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\bin\Debug\projeto1.exe
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\bin\Debug\projeto1.pdb
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.frmCurso.resources
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.Properties.Resources.resources
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.csproj.GenerateResource.Cache
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.exe
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.pdb
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.frmEscola.resources
+C:\Users\Thiago Lemos\Desktop\Curso .NET\projeto1\projeto1\obj\Debug\projeto1.frmCursoAndamento.resources
